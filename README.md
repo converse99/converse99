@@ -1,4 +1,4 @@
-* converse99 Bio
+# converse99 Bio
 
 Greetings fellow GitHub users. My name is Dave Porter @converse99. I'm new to
 GitHub but have been using Git on the command line for many years with private
