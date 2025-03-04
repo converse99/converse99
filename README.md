@@ -29,7 +29,7 @@ available.
 
 You can reach me on social media at:
 
-- Twitter @dave_port
 - Mastodon @dave_port@mstdn.social
+- BlueSky @porterd.bsky.social (preferred)
 
 Thank you for reading my Bio.
