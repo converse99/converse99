@@ -1,8 +1,6 @@
 # converse99 Bio
 
-Greetings fellow GitHub users. My name is Dave Porter @converse99. I'm new to
-GitHub but have been using Git on the command line for many years with private
-repositories.
+Greetings fellow GitHub users. My name is Dave Porter @converse99.
 
 My coding experience dates back to the early 1970s on a Burroughs 6700
 mainframe computer. In the early days of the microprocessor, I designed and
